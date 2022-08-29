@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(81,76): warning C4244: “参数”: 从“__int64”转换到“double”，可能丢失数据
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(81,57): warning C4244: “参数”: 从“__int64”转换到“double”，可能丢失数据
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(117,18): warning C4244: “=”: 从“time_t”转换到“double”，可能丢失数据
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(135,17): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(202,18): warning C4244: “=”: 从“time_t”转换到“double”，可能丢失数据
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(206,20): warning C4244: “=”: 从“time_t”转换到“double”，可能丢失数据
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(130,24): warning C4101: “ost”: 未引用的局部变量
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(128,6): warning C4101: “level”: 未引用的局部变量
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(173,25): warning C4101: “sPtcMat2”: 未引用的局部变量
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(172,25): warning C4101: “sPtcMat”: 未引用的局部变量
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(174,25): warning C4101: “sPtcMatT”: 未引用的局部变量
+D:\CUDA计算文件\sOctree2\sOctree2\main.cpp(175,25): warning C4101: “outMat”: 未引用的局部变量
+  sOctree2.vcxproj -> D:\CUDA计算文件\sOctree2\x64\Debug\sOctree2.exe
